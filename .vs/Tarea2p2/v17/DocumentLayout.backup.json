@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\games\\Desktop\\Practica CODE\\Tarea2p2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA337A0-E663-4E25-9AD8-2BB288AED25A}|Tarea2p2\\Tarea2p2.csproj|c:\\users\\games\\desktop\\practica code\\tarea2p2\\tarea2p2\\migrations\\202504062224012_segundacreada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA337A0-E663-4E25-9AD8-2BB288AED25A}|Tarea2p2\\Tarea2p2.csproj|solutionrelative:tarea2p2\\migrations\\202504062224012_segundacreada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202504062224012_SegundaCreada.cs",
+              "DocumentMoniker": "C:\\Users\\games\\Desktop\\Practica CODE\\Tarea2p2\\Tarea2p2\\Migrations\\202504062224012_SegundaCreada.cs",
+              "RelativeDocumentMoniker": "Tarea2p2\\Migrations\\202504062224012_SegundaCreada.cs",
+              "ToolTip": "C:\\Users\\games\\Desktop\\Practica CODE\\Tarea2p2\\Tarea2p2\\Migrations\\202504062224012_SegundaCreada.cs",
+              "RelativeToolTip": "Tarea2p2\\Migrations\\202504062224012_SegundaCreada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:24:04.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

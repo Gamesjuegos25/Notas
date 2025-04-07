@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\games\\Desktop\\Practica CODE\\Tarea2p2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECA337A0-E663-4E25-9AD8-2BB288AED25A}|Tarea2p2\\Tarea2p2.csproj|c:\\users\\games\\desktop\\practica code\\tarea2p2\\tarea2p2\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECA337A0-E663-4E25-9AD8-2BB288AED25A}|Tarea2p2\\Tarea2p2.csproj|solutionrelative:tarea2p2\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ECA337A0-E663-4E25-9AD8-2BB288AED25A}|Tarea2p2\\Tarea2p2.csproj|c:\\users\\games\\desktop\\practica code\\tarea2p2\\tarea2p2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{ECA337A0-E663-4E25-9AD8-2BB288AED25A}|Tarea2p2\\Tarea2p2.csproj|solutionrelative:tarea2p2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA337A0-E663-4E25-9AD8-2BB288AED25A}|Tarea2p2\\Tarea2p2.csproj|c:\\users\\games\\desktop\\practica code\\tarea2p2\\tarea2p2\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA337A0-E663-4E25-9AD8-2BB288AED25A}|Tarea2p2\\Tarea2p2.csproj|solutionrelative:tarea2p2\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECA337A0-E663-4E25-9AD8-2BB288AED25A}|Tarea2p2\\Tarea2p2.csproj|c:\\users\\games\\desktop\\practica code\\tarea2p2\\tarea2p2\\controllers\\notascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ECA337A0-E663-4E25-9AD8-2BB288AED25A}|Tarea2p2\\Tarea2p2.csproj|c:\\users\\games\\desktop\\practica code\\tarea2p2\\tarea2p2\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECA337A0-E663-4E25-9AD8-2BB288AED25A}|Tarea2p2\\Tarea2p2.csproj|solutionrelative:tarea2p2\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECA337A0-E663-4E25-9AD8-2BB288AED25A}|Tarea2p2\\Tarea2p2.csproj|c:\\users\\games\\desktop\\practica code\\tarea2p2\\tarea2p2\\migrations\\202504062224012_segundacreada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECA337A0-E663-4E25-9AD8-2BB288AED25A}|Tarea2p2\\Tarea2p2.csproj|solutionrelative:tarea2p2\\migrations\\202504062224012_segundacreada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,28 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\games\\Desktop\\Practica CODE\\Tarea2p2\\Tarea2p2\\Web.config",
               "RelativeDocumentMoniker": "Tarea2p2\\Web.config",
               "ToolTip": "C:\\Users\\games\\Desktop\\Practica CODE\\Tarea2p2\\Tarea2p2\\Web.config",
               "RelativeToolTip": "Tarea2p2\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-06T22:30:40.591Z",
+              "WhenOpened": "2025-04-06T20:15:25.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\games\\Desktop\\Practica CODE\\Tarea2p2\\Tarea2p2\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Tarea2p2\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\games\\Desktop\\Practica CODE\\Tarea2p2\\Tarea2p2\\ApplicationDbContext.cs",
               "RelativeToolTip": "Tarea2p2\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T22:30:29.186Z",
+              "WhenOpened": "2025-04-06T20:14:18.138Z",
               "EditorCaption": ""
             },
             {
@@ -70,9 +66,9 @@
               "RelativeDocumentMoniker": "Tarea2p2\\Controllers\\NotasController.cs",
               "ToolTip": "C:\\Users\\games\\Desktop\\Practica CODE\\Tarea2p2\\Tarea2p2\\Controllers\\NotasController.cs",
               "RelativeToolTip": "Tarea2p2\\Controllers\\NotasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwEIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T22:29:57.418Z",
+              "WhenOpened": "2025-04-06T20:08:15.866Z",
               "EditorCaption": ""
             },
             {
@@ -83,22 +79,9 @@
               "RelativeDocumentMoniker": "Tarea2p2\\Models\\Nota.cs",
               "ToolTip": "C:\\Users\\games\\Desktop\\Practica CODE\\Tarea2p2\\Tarea2p2\\Models\\Nota.cs",
               "RelativeToolTip": "Tarea2p2\\Models\\Nota.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T22:29:54.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "202504062224012_SegundaCreada.cs",
-              "DocumentMoniker": "C:\\Users\\games\\Desktop\\Practica CODE\\Tarea2p2\\Tarea2p2\\Migrations\\202504062224012_SegundaCreada.cs",
-              "RelativeDocumentMoniker": "Tarea2p2\\Migrations\\202504062224012_SegundaCreada.cs",
-              "ToolTip": "C:\\Users\\games\\Desktop\\Practica CODE\\Tarea2p2\\Tarea2p2\\Migrations\\202504062224012_SegundaCreada.cs",
-              "RelativeToolTip": "Tarea2p2\\Migrations\\202504062224012_SegundaCreada.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T22:24:04.8Z",
+              "WhenOpened": "2025-04-06T20:06:15.343Z",
               "EditorCaption": ""
             }
           ]
